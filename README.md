@@ -69,8 +69,8 @@ This dashboard addresses these challenges by transforming raw sales data into **
 
 ## 🛠️ Tools & Technologies
 
-* **Power BI **
-* **Excel **
+* **Power BI**
+* **Excel**
 * **DAX (Data Analysis Expressions)**
 * **Power Query (Data Transformation)**
 * **Data Modeling**
